@@ -25,11 +25,6 @@ Day planner is a simple calendar app for scheduling your work day in the company
 ## Second part of the main page
 ![secondpart-main-page](./Assets/images/Second.png)
 ---
-
-## When refresh the page 
-![Refesh-page](./Assets/images/Refresh.png)
----
-
 ---
 
 
