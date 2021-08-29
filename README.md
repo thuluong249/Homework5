@@ -1,27 +1,50 @@
-# Homework5
-For this homework I want to create a regular schedule for working day. 
----
-* At first I need to create all the timeblocks in the HTML, added all the information for the time and textarea and a save button at the end of the row.
----
-* Working in the JavaScript:
+# hw5-Day Planner
 
-1. Refences the heading of the page when it run, it shows the title and the current time-date-month-year for the page. 
+![Banner](./Assets/images/dayplanner.jpg)
+
+![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
+
+
+# 📝🔖 Description 📝🔖
+
+Day planner is a simple calendar app for scheduling your work day in the company. You can add a note and saved it in to the local storage. On the page will show the current, past and future by showing the different color on the app.
+
+# 🔗 Link
+
+- [Day-Planner](https://thuluong249.github.io/Homework5/)
+
 ---
-2. And, I refences all the timeblocks that I have created in the HTML by setting up array for them.
----
-3. For the timeblock color I create them in the HTML with the textarea by added past-present-future in front of the column, so it will change the color separately in each period of time.
----
-4. And, into the timeblock area I can enter the event that I have to do in it and save it in the local storage. Even, when I refresh the page all the events still persist.
----
+
+
+# 📸 Screenshot 📸
 
 ## For the main page
-![main-page](/Assets/images/main.png)
+![main-page](/Assets/images/Firstpage.png)
 ---
 
 ## Second part of the main page
-![secondpart-main-page](/Assets/images/main2.png)
+![secondpart-main-page](/Assets/images/Second.png)
 ---
 
 ## When refresh the page 
-![refresh-page](/Assets/images/refresh.png)
+![refresh-page](/Assets/images/Refresh.png)
 ---
+
+---
+
+
+# 🙈 Test
+
+To test this application, right click on the index.html file and open it in the browser.
+
+--- 
+
+# Questions
+
+If you have any questions, here is a link to my github as well as my email address. Feel free to contanct me!
+
+* [Github](https://github.com/thuluong249)
+
+* <a href="mailto:thujtn2019@gmmail.com">💌 Email</a> 
+
+
