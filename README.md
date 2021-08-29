@@ -27,7 +27,7 @@ Day planner is a simple calendar app for scheduling your work day in the company
 ---
 
 ## When refresh the page 
-![refresh-page](/Assets/images/Refresh.png)
+![refresh-page](./Assets/images/Refresh.png)
 ---
 
 ---
@@ -46,5 +46,6 @@ If you have any questions, here is a link to my github as well as my email addre
 * [Github](https://github.com/thuluong249)
 
 * <a href="mailto:thujtn2019@gmmail.com">💌 Email</a> 
+
 
 
