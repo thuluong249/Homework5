@@ -19,15 +19,15 @@ Day planner is a simple calendar app for scheduling your work day in the company
 # 📸 Screenshot 📸
 
 ## For the main page
-![main-page](/Assets/images/Firstpage.png)
+![main-page](./Assets/images/Firstpage.png)
 ---
 
 ## Second part of the main page
-![secondpart-main-page](/Assets/images/Second.png)
+![secondpart-main-page](./Assets/images/Second.png)
 ---
 
 ## When refresh the page 
-![refresh-page](./Assets/images/Refresh.png)
+![Refesh-page](./Assets/images/Refresh.png)
 ---
 
 ---
