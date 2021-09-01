@@ -1,6 +1,6 @@
 # hw5-Day Planner
 
-![Banner](./Assets/images/dayplanner.jpg)
+![Banner](./Assets/images/workday.png)
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
 
@@ -11,7 +11,7 @@ Day planner is a simple calendar app for scheduling your work day in the company
 
 # 🔗 Link
 
-- [Day-Planner](https://thuluong249.github.io/Homework5/)
+- [Day-Planner](https://thuluong249.github.io/day-planner-hw5/)
 
 ---
 
@@ -19,11 +19,11 @@ Day planner is a simple calendar app for scheduling your work day in the company
 # 📸 Screenshot 📸
 
 ## For the main page
-![main-page](./Assets/images/Firstpage.png)
+![main-page](./Assets/images/Part1.png)
 ---
 
 ## Second part of the main page
-![secondpart-main-page](./Assets/images/Second.png)
+![secondpart-main-page](./Assets/images/part2.png)
 ---
 ---
 
